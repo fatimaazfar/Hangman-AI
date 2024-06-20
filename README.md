@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="th.jpg" alt="Description" width="600">
+</p>
+
 # Hangman Game AI
 
 This project aims to develop an AI-driven Hangman game using various advanced machine learning techniques. The project leverages a combination of models and methods to predict missing letters in a word, enhancing the Hangman gameplay experience. The core methodologies include a Bidirectional LSTM (BiLSTM) model, a Directed Acyclic Word Graph (DAWG) structure, and a BERT model.
